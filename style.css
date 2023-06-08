@@ -4,6 +4,12 @@ topnav a:hover {background-color: #6d1197;
         color: black;
       }
       topnav{float: right;}    
+h1{font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 30px;
+  color:blue;
+margin: 10px;
+padding: 2px;}
+
 
 h1{color: aqua;}
 h2{color: #6d1197;} 
